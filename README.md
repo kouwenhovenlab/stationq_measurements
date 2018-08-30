@@ -11,4 +11,13 @@ The backend framework for performing measurements is
 
 > Add a brief desctiption about every python module here
 
+This repository contains a single python module called `stationq_measurements`.
+This module is a collection of submodules.
+
 There are no modules in this repository yet.
+
+# Installation
+
+The current way of working with this python module is the following:
+* clone this repository
+* install with `pip install -e <path to the cloned repository>` (note the `-e` flag)
