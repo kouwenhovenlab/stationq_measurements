@@ -1,3 +1,10 @@
+# Editors
+.vscode
+.idea
+
+# QCODES
+experiments.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -102,3 +109,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Mac OS
+*.DS_Store
